@@ -5,5 +5,7 @@ This EA was created and is intended for use on the major currency pairs only, an
 
 It makes use of a conservative but robust position sizing and risk-management framework to minimise volatility exposure, and in turn drawdown.
 
+For any further questions please contact me at: edwinward1@icloud.com
+
 NOTE: I highly recommend this expert advisor to be used in conjunction with the EuroCurrency Volatility Index ($EVZ) found here: https://www.barchart.com/stocks/quotes/$EVZ 
 The expert advisor should not run unless there is sufficient market volatility to allow for prices to trend effectively. The recommended minimum $EVZ level is 6.0.
